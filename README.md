@@ -51,3 +51,4 @@ Infra          Docker · CI/CD · OpenTelemetry · Remotion
   <a href="https://codeforces.com/profile/akshtjain"><img src="https://img.shields.io/badge/Codeforces-1917-0a0a0a?style=flat-square&logo=codeforces&logoColor=3b82f6" /></a>
   <a href="https://akshtjain.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-akshtjain.github.io-0a0a0a?style=flat-square&logo=vercel&logoColor=3b82f6" /></a>
 </p>
+
