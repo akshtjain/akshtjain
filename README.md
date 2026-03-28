@@ -1,12 +1,14 @@
 ### Hey, I'm Aksht
 
-**Engineering Lead** at Canvas Plus (Dubai) &bull; Previously **SWE2 at Rippling** (Bangalore)
+**Founder of [Ekly.ai](https://ekly.ai)** &mdash; AI-powered video editing platform
 
-I build systems that handle real-world complexity — payment rails that move money across borders, CRMs that replace entire call center infrastructure, and AI-powered products from zero to one.
+Previously **Engineering Lead at Canvas Plus** (Dubai) and **SWE2 at Rippling** (Bangalore). I build products from zero to one &mdash; payment rails, CRMs, AI-powered tools, and now a full video creation platform.
 
 ---
 
-**Currently building [Ekly.ai](https://ekly.ai)** — an AI-powered video editing platform with a Claude-driven agentic editor, auto shorts creator, voice cloning, and serverless rendering.
+#### Ekly.ai
+
+Building a full-stack AI video editor featuring a Claude-driven agentic editor, auto shorts creator with LangGraph, voice cloning, AI image/video generation, and serverless rendering via Remotion. Next.js + FastAPI + AWS/GCP.
 
 ---
 
@@ -14,6 +16,7 @@ I build systems that handle real-world complexity — payment rails that move mo
 
 | | Role | Highlights |
 |---|---|---|
+| **Ekly.ai** | Founder | AI video editor &mdash; agentic editing, shorts creator, voice cloning, Remotion rendering |
 | **Canvas Plus** | Engineering Lead &bull; Dubai | Built CRM + Cloud Dialer from scratch (300 users, 4 call centers). AI sales assistant. Sub-400ms p99. |
 | **Rippling** | SWE2 &bull; Bangalore | Migrated payment infra SVB → JPMC over a weekend. Global payment rails (USD/GBP/AUD/BRL/EUR). |
 | **BNY Mellon** | SWE Intern | Angular + Spring Boot web services |
