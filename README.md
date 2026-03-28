@@ -8,9 +8,9 @@ I build systems that handle real-world complexity — payment rails that move mo
 
 ### What I'm doing now
 
+- Building **[Ekly.ai](https://ekly.ai)** — an AI-powered video editing platform with a Claude-driven agentic editor, auto shorts creator, voice cloning, and Remotion-based rendering (Next.js + FastAPI + LangGraph + AWS/GCP)
 - Building a **CRM + Cloud Dialer** from scratch at Canvas Plus — migrated 4 call centers, 300 users off landlines
 - Shipping **AI-powered sales assistants** and post-call analytics for enterprise teams
-- Designing backends with **12+ integrated services**, full observability, and sub-400ms p99 latency
 
 ### What I've shipped
 
